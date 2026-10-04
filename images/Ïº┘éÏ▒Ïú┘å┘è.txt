@@ -1,0 +1,4 @@
+ضع صور الأكل هنا بنفس هذه الأسماء (jpg أو jpeg أو png أو webp):
+kebab, chicken, steak, fish, hummus, salad, fries,
+lemon, mango, coffee, omali, kunafa, cheesecake
+واللوجو: logo.png
